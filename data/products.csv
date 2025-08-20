@@ -1,0 +1,153 @@
+﻿product_id,product_name,category,brand,base_price,base_cost
+ELE-001,Smartphone 1,Elektronik,Samsung,4705.36,2776.43
+ELE-002,Smartphone 2,Elektronik,Lenovo,27794.95,16426.44
+ELE-003,Smartphone 3,Elektronik,Lenovo,33323.82,17172.26
+ELE-004,Smartphone 4,Elektronik,Lenovo,31725.77,16982.33
+ELE-005,Bluetooth Kulaklık 1,Elektronik,Lenovo,32484.62,22645.4
+ELE-006,Bluetooth Kulaklık 2,Elektronik,Sony,3120.8,1752.5
+ELE-007,Bluetooth Kulaklık 3,Elektronik,Philips,8762.84,5804.31
+ELE-008,Bluetooth Kulaklık 4,Elektronik,Xiaomi,37563.0,25470.7
+ELE-009,Powerbank 1,Elektronik,Sony,25237.27,17823.14
+ELE-010,Powerbank 2,Elektronik,Sony,27093.0,16427.04
+ELE-011,Powerbank 3,Elektronik,Samsung,16486.29,8926.06
+ELE-012,Powerbank 4,Elektronik,Apple,7905.17,3901.11
+ELE-013,Akıllı Saat 1,Elektronik,Samsung,27258.65,13130.29
+ELE-014,Akıllı Saat 2,Elektronik,Lenovo,16632.71,12299.86
+ELE-015,Akıllı Saat 3,Elektronik,Philips,10677.89,5628.06
+ELE-016,Akıllı Saat 4,Elektronik,Sony,34349.95,20801.0
+ELE-017,LED TV 1,Elektronik,Lenovo,22541.3,15944.45
+ELE-018,LED TV 2,Elektronik,Samsung,1909.23,1302.16
+ELE-019,LED TV 3,Elektronik,Sony,8457.71,4391.11
+ELE-020,LED TV 4,Elektronik,Xiaomi,16574.87,8654.78
+ELE-021,Oyuncu Mouse 1,Elektronik,Apple,5986.32,2887.18
+ELE-022,Oyuncu Mouse 2,Elektronik,Lenovo,20264.15,12993.42
+ELE-023,Oyuncu Mouse 3,Elektronik,Samsung,33676.5,25205.35
+ELE-024,Oyuncu Mouse 4,Elektronik,Sony,16321.32,10924.65
+ELE-025,Laptop 1,Elektronik,Xiaomi,19259.59,14039.03
+ELE-026,Laptop 2,Elektronik,Xiaomi,28717.44,15020.36
+ELE-027,Laptop 3,Elektronik,Lenovo,36883.17,24316.79
+ELE-028,Laptop 4,Elektronik,Apple,31613.42,19590.32
+ELE-029,Tablet 1,Elektronik,Xiaomi,18855.59,13185.3
+ELE-030,Tablet 2,Elektronik,Philips,12177.96,9110.69
+ELE-031,Tablet 3,Elektronik,Sony,16533.79,9343.97
+ELE-032,Tablet 4,Elektronik,Lenovo,11032.67,6079.65
+MOD-033,Sneaker 1,Moda,Koton,527.1,300.06
+MOD-034,Sneaker 2,Moda,Puma,1824.26,1028.96
+MOD-035,Sneaker 3,Moda,Puma,228.34,107.77
+MOD-036,Sneaker 4,Moda,Adidas,623.51,328.49
+MOD-037,T‑Shirt 1,Moda,LC Waikiki,1079.16,724.13
+MOD-038,T‑Shirt 2,Moda,Nike,1642.43,1102.97
+MOD-039,T‑Shirt 3,Moda,Adidas,1972.28,1387.22
+MOD-040,T‑Shirt 4,Moda,Adidas,1788.7,1049.25
+MOD-041,Jeans 1,Moda,LC Waikiki,245.67,114.28
+MOD-042,Jeans 2,Moda,Adidas,947.63,524.39
+MOD-043,Jeans 3,Moda,LC Waikiki,1316.18,627.6
+MOD-044,Jeans 4,Moda,Puma,1602.97,1071.36
+MOD-045,Mont 1,Moda,Koton,403.02,183.9
+MOD-046,Mont 2,Moda,LC Waikiki,1770.02,883.4
+MOD-047,Mont 3,Moda,Koton,889.1,416.21
+MOD-048,Mont 4,Moda,Adidas,1492.03,677.42
+MOD-049,Çanta 1,Moda,LC Waikiki,1128.34,608.64
+MOD-050,Çanta 2,Moda,Puma,737.72,347.17
+MOD-051,Çanta 3,Moda,Nike,1671.42,1130.41
+MOD-052,Çanta 4,Moda,Koton,1352.84,877.19
+MOD-053,Güneş Gözlüğü 1,Moda,Puma,331.34,191.21
+MOD-054,Güneş Gözlüğü 2,Moda,Puma,1676.96,1068.34
+MOD-055,Güneş Gözlüğü 3,Moda,LC Waikiki,831.42,438.15
+MOD-056,Güneş Gözlüğü 4,Moda,Nike,1432.3,983.46
+MOD-057,Sandalet 1,Moda,Adidas,1524.0,724.59
+MOD-058,Sandalet 2,Moda,Puma,820.79,513.58
+MOD-059,Sandalet 3,Moda,LC Waikiki,1950.67,1141.22
+MOD-060,Sandalet 4,Moda,Adidas,1232.57,833.38
+EV -061,Kahve Makinesi 1,Ev & Yaşam,Karaca,3146.07,2275.08
+EV -062,Kahve Makinesi 2,Ev & Yaşam,Karaca,4834.13,2857.48
+EV -063,Kahve Makinesi 3,Ev & Yaşam,Philips,3852.5,1776.14
+EV -064,Kahve Makinesi 4,Ev & Yaşam,Karaca,1109.64,830.29
+EV -065,Blender 1,Ev & Yaşam,Fakir,4649.91,2639.86
+EV -066,Blender 2,Ev & Yaşam,Philips,1000.09,585.31
+EV -067,Blender 3,Ev & Yaşam,Fakir,1935.11,984.82
+EV -068,Blender 4,Ev & Yaşam,Arçelik,1149.58,810.47
+EV -069,Süpürge 1,Ev & Yaşam,Bosch,377.06,261.44
+EV -070,Süpürge 2,Ev & Yaşam,Arçelik,3632.39,2400.74
+EV -071,Süpürge 3,Ev & Yaşam,Karaca,4459.99,2357.33
+EV -072,Süpürge 4,Ev & Yaşam,Arçelik,4236.75,2038.82
+EV -073,Nevresim 1,Ev & Yaşam,Philips,1501.7,968.34
+EV -074,Nevresim 2,Ev & Yaşam,Bosch,5751.84,2904.5
+EV -075,Nevresim 3,Ev & Yaşam,Philips,4159.44,2894.04
+EV -076,Nevresim 4,Ev & Yaşam,Bosch,505.45,319.37
+EV -077,Tencere 1,Ev & Yaşam,Bosch,4284.95,2023.31
+EV -078,Tencere 2,Ev & Yaşam,Fakir,714.18,420.07
+EV -079,Tencere 3,Ev & Yaşam,Philips,3223.69,1666.05
+EV -080,Tencere 4,Ev & Yaşam,Bosch,2867.71,1757.07
+EV -081,Duvar Rafı 1,Ev & Yaşam,Bosch,775.47,543.46
+EV -082,Duvar Rafı 2,Ev & Yaşam,Bosch,5222.95,2693.73
+EV -083,Duvar Rafı 3,Ev & Yaşam,Karaca,5825.89,2820.98
+EV -084,Duvar Rafı 4,Ev & Yaşam,Karaca,4479.27,2764.67
+EV -085,Su Isıtıcı 1,Ev & Yaşam,Fakir,4858.04,2560.23
+EV -086,Su Isıtıcı 2,Ev & Yaşam,Fakir,4243.08,2912.54
+EV -087,Su Isıtıcı 3,Ev & Yaşam,Fakir,4754.57,2444.35
+EV -088,Su Isıtıcı 4,Ev & Yaşam,Fakir,2657.34,1904.37
+KOZ-089,Parfüm 1,Kozmetik,L'Oreal,856.1,557.73
+KOZ-090,Parfüm 2,Kozmetik,Garnier,1012.99,546.52
+KOZ-091,Parfüm 3,Kozmetik,L'Oreal,209.33,133.5
+KOZ-092,Parfüm 4,Kozmetik,Garnier,243.35,140.28
+KOZ-093,Ruj 1,Kozmetik,Flormar,678.88,378.33
+KOZ-094,Ruj 2,Kozmetik,Avon,473.91,291.52
+KOZ-095,Ruj 3,Kozmetik,Avon,802.61,480.5
+KOZ-096,Ruj 4,Kozmetik,Flormar,510.9,368.57
+KOZ-097,Nemlendirici 1,Kozmetik,Flormar,834.37,494.55
+KOZ-098,Nemlendirici 2,Kozmetik,Garnier,576.8,416.09
+KOZ-099,Nemlendirici 3,Kozmetik,Avon,232.14,170.3
+KOZ-100,Nemlendirici 4,Kozmetik,Avon,271.55,165.82
+KOZ-101,Şampuan 1,Kozmetik,Nivea,277.72,134.21
+KOZ-102,Şampuan 2,Kozmetik,Nivea,440.01,208.4
+KOZ-103,Şampuan 3,Kozmetik,Flormar,809.22,564.36
+KOZ-104,Şampuan 4,Kozmetik,Garnier,832.13,547.62
+KOZ-105,Cilt Serumu 1,Kozmetik,Nivea,449.51,305.76
+KOZ-106,Cilt Serumu 2,Kozmetik,Nivea,162.72,106.67
+KOZ-107,Cilt Serumu 3,Kozmetik,L'Oreal,730.2,545.83
+KOZ-108,Cilt Serumu 4,Kozmetik,Flormar,510.06,320.25
+KOZ-109,Güneş Kremi 1,Kozmetik,Flormar,188.39,129.19
+KOZ-110,Güneş Kremi 2,Kozmetik,Flormar,622.26,437.75
+KOZ-111,Güneş Kremi 3,Kozmetik,Avon,1101.99,803.72
+KOZ-112,Güneş Kremi 4,Kozmetik,Nivea,991.59,453.07
+SPO-113,Koşu Bandı 1,Spor,Spalding,9348.56,5979.03
+SPO-114,Koşu Bandı 2,Spor,Spalding,10117.95,6650.09
+SPO-115,Koşu Bandı 3,Spor,Adidas,14660.45,9970.75
+SPO-116,Koşu Bandı 4,Spor,Spalding,9352.65,6408.85
+SPO-117,Dumbbell 1,Spor,Spalding,9552.43,7115.15
+SPO-118,Dumbbell 2,Spor,Nike,11174.57,7891.13
+SPO-119,Dumbbell 3,Spor,Spalding,5082.69,3785.28
+SPO-120,Dumbbell 4,Spor,Nike,2514.93,1879.44
+SPO-121,Yoga Matı 1,Spor,Nike,11635.87,6164.77
+SPO-122,Yoga Matı 2,Spor,Decathlon,12908.04,7107.99
+SPO-123,Yoga Matı 3,Spor,Adidas,13709.04,9470.62
+SPO-124,Yoga Matı 4,Spor,Adidas,13368.62,9733.48
+SPO-125,Futbol Topu 1,Spor,Adidas,12032.51,5900.8
+SPO-126,Futbol Topu 2,Spor,Nike,2445.38,1320.55
+SPO-127,Futbol Topu 3,Spor,Spalding,9947.14,5023.63
+SPO-128,Futbol Topu 4,Spor,Adidas,11325.88,7383.21
+SPO-129,Bisiklet Kaskı 1,Spor,Nike,3092.72,1632.99
+SPO-130,Bisiklet Kaskı 2,Spor,Nike,12621.01,5831.23
+SPO-131,Bisiklet Kaskı 3,Spor,Adidas,4559.25,2957.42
+SPO-132,Bisiklet Kaskı 4,Spor,Nike,6116.39,4530.27
+KIT-133,Roman 1,Kitap,Penguin,197.91,108.15
+KIT-134,Roman 2,Kitap,Penguin,80.11,36.16
+KIT-135,Roman 3,Kitap,Can Yayınları,254.79,122.41
+KIT-136,Roman 4,Kitap,Can Yayınları,226.53,135.6
+KIT-137,Kişisel Gelişim 1,Kitap,İş Bankası Kültür,238.02,159.77
+KIT-138,Kişisel Gelişim 2,Kitap,Epsilon,210.78,135.47
+KIT-139,Kişisel Gelişim 3,Kitap,Can Yayınları,242.72,135.41
+KIT-140,Kişisel Gelişim 4,Kitap,Penguin,108.8,66.42
+KIT-141,Eğitim Seti 1,Kitap,Can Yayınları,75.42,35.84
+KIT-142,Eğitim Seti 2,Kitap,Penguin,260.31,150.57
+KIT-143,Eğitim Seti 3,Kitap,İş Bankası Kültür,254.22,186.79
+KIT-144,Eğitim Seti 4,Kitap,Epsilon,67.09,48.74
+KIT-145,Çocuk Kitabı 1,Kitap,Epsilon,295.05,134.13
+KIT-146,Çocuk Kitabı 2,Kitap,Epsilon,264.85,159.7
+KIT-147,Çocuk Kitabı 3,Kitap,Penguin,142.47,106.1
+KIT-148,Çocuk Kitabı 4,Kitap,Epsilon,266.82,146.87
+KIT-149,Tarih 1,Kitap,Epsilon,91.47,57.41
+KIT-150,Tarih 2,Kitap,Can Yayınları,66.41,39.78
+KIT-151,Tarih 3,Kitap,İş Bankası Kültür,224.0,139.81
+KIT-152,Tarih 4,Kitap,Can Yayınları,136.75,96.95

@@ -1,0 +1,44 @@
+/* assets/print.css */
+
+/* Sadece yazdır/PDF çıktısında geçerli olacak ayarlar */
+@media print {
+
+  @page {
+    size: A4 portrait;   /* landscape yaparsan yatay çıkar */
+    margin: 12mm;
+  }
+
+  /* Ekranda görünen ama yazdırılmasın dediğimiz öğeler */
+  .navbar,
+  .btn,
+  .btn-group,
+  .dash-debug-menu,
+  .modebar-container,
+  .modebar {
+    display: none !important;
+  }
+
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Kartlar/grafikler sayfada bölünmesin */
+  .kpi-card,
+  .card,
+  .dbc {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .dash-graph,
+  .js-plotly-plot {
+    page-break-inside: avoid;
+    max-width: 100% !important;
+  }
+
+  /* Elle sayfa kırmak istersen class="page-break" ekle */
+  .page-break {
+    page-break-before: always;
+  }
+}

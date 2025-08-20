@@ -7,24 +7,24 @@ It visualizes **sales, returns, stock, profitability, finance, and regional perf
 
 ## 📂 Project Structure
 
-
+```text
 ecommerce_dashboard/
 ├─ app.py
 ├─ data/
-│ ├─ sales_data.csv
-│ ├─ stock_snapshot.csv
-│ └─ products.csv
+│  ├─ sales_data.csv
+│  ├─ stock_snapshot.csv
+│  └─ products.csv
 ├─ pages/
-│ ├─ sales_dashboard.py
-│ ├─ returns_dashboard.py
-│ ├─ stock_dashboard.py
-│ ├─ regional_dashboard.py
-│ └─ finance_dashboard.py
+│  ├─ sales_dashboard.py
+│  ├─ returns_dashboard.py
+│  ├─ stock_dashboard.py
+│  ├─ regional_dashboard.py
+│  └─ finance_dashboard.py
 ├─ utils/
-│ ├─ init.py
-│ └─ data.py
+│  ├─ __init__.py
+│  └─ data.py
 └─ assets/
-└─ style.css
+   └─ style.css
 
 
 ---
